@@ -1,0 +1,15 @@
+{
+  "name": "api-intros",
+  "version": "1.0.0",
+  "description": "First API Request",
+  "main": "firstrequest.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Kemp",
+  "license": "ISC"
+}
